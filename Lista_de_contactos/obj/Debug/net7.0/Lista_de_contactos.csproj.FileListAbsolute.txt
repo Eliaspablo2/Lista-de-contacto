@@ -1,0 +1,17 @@
+D:\Prueba de DS\Lista_de_contactos\bin\Debug\net7.0\Lista_de_contactos.exe
+D:\Prueba de DS\Lista_de_contactos\bin\Debug\net7.0\Lista_de_contactos.deps.json
+D:\Prueba de DS\Lista_de_contactos\bin\Debug\net7.0\Lista_de_contactos.runtimeconfig.json
+D:\Prueba de DS\Lista_de_contactos\bin\Debug\net7.0\Lista_de_contactos.dll
+D:\Prueba de DS\Lista_de_contactos\bin\Debug\net7.0\Lista_de_contactos.pdb
+D:\Prueba de DS\Lista_de_contactos\obj\Debug\net7.0\Lista_de_contactos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Prueba de DS\Lista_de_contactos\obj\Debug\net7.0\Lista_de_contactos.AssemblyInfoInputs.cache
+D:\Prueba de DS\Lista_de_contactos\obj\Debug\net7.0\Lista_de_contactos.AssemblyInfo.cs
+D:\Prueba de DS\Lista_de_contactos\obj\Debug\net7.0\Lista_de_contactos.csproj.CoreCompileInputs.cache
+D:\Prueba de DS\Lista_de_contactos\obj\Debug\net7.0\Lista_de_contactos.dll
+D:\Prueba de DS\Lista_de_contactos\obj\Debug\net7.0\refint\Lista_de_contactos.dll
+D:\Prueba de DS\Lista_de_contactos\obj\Debug\net7.0\Lista_de_contactos.pdb
+D:\Prueba de DS\Lista_de_contactos\obj\Debug\net7.0\Lista_de_contactos.genruntimeconfig.cache
+D:\Prueba de DS\Lista_de_contactos\obj\Debug\net7.0\ref\Lista_de_contactos.dll
+D:\Prueba de DS\Lista_de_contactos\obj\Debug\net7.0\Lista_de_contactos.csproj.AssemblyReference.cache
+D:\Prueba de DS\Lista_de_contactos\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\Prueba de DS\Lista_de_contactos\obj\Debug\net7.0\Lista_de.16DB566E.Up2Date
